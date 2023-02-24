@@ -1,1 +1,1 @@
-This project is about an enrollment systemthat helps manage student's registration to a system.
+This project is about an enrollment system that helps manage student's registration to a system.
